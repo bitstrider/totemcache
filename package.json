@@ -1,0 +1,29 @@
+{
+  "name": "towerdb",
+  "version": "0.1.0",
+  "description": "resiliently redundant storage stacks",
+  "main": "lib/towerdb.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "tap test/*.js --coverage"
+  },
+  "keywords": [
+    "cache",
+    "store",
+    "stack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitstrider/towerdb.git"
+  },
+  "author": "Jason Yung",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  },
+  "engines" : {
+    "node" : ">=7.6" 
+  }
+}
