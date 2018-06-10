@@ -1,6 +1,6 @@
 {
   "name": "towerdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "resiliently redundant storage stacks",
   "main": "lib/towerdb.js",
   "directories": {
@@ -24,6 +24,6 @@
     "tap": "^10.7.2"
   },
   "engines" : {
-    "node" : ">=7.6" 
+    "node" : ">=7.6"
   }
 }
